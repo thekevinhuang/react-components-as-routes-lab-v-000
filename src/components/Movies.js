@@ -1,6 +1,13 @@
 import React from 'react';
 import { movies } from '../data';
 
+const Movie = ({title, time, genres}) => {
+  return (
+    
+  )
+}
+
+
 const Movies = () => {
   return (
     <div>
