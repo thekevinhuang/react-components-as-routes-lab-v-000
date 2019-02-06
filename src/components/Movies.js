@@ -3,7 +3,7 @@ import { movies } from '../data';
 
 const Movie = ({title, time, genres}) => {
   return (
-    
+
   )
 }
 
